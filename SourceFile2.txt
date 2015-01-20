@@ -1,0 +1,49 @@
+#include <iostream.h> 
+#include <conio.h> 
+
+// this is a single line comment
+/* this is a 
+multi line comment * fsa test */
+
+int alpha = 0,beta=10;
+float fpVar = 0;
+char chVar;
+
+void main() 
+{ // this is a comment and should be skipped.
+float varx,vara,varb,varc,ppp,test ; // again comment
+int varint ; 
+long this_is_a_long_Type_Variable = 0,*longPtr ;
+
+varx = 10 * varc + vara; // place them above later
+varx = varb + varc ; 
+chVar = 10 * varc;
+fpVar = undec+beta;
+
+varx = varb + varc ; 
+alpha = 10;
+alpha = beta + 10 * $varx;
+gamma = 56;
+
+for(i=0,j=beta; i<10,j>=20;i+=1,j-=2)
+{
+   sum = alpha * i;
+   sum=sum+j;
+}
+
+
+while(varx !=vara && varb <=varc)
+{
+   varx=varx+1;
+   varb = varx * 30;
+}
+/* Another Multiline Comment
+to test the program */
+vara = varb - varc  
+test = 333 + 27 ; 
+
+/* Compute addition & Subtraction of Variables
+and Display the Results */
+varint = vara + 90 ; 
+varint = var *  21 ;  
+} 
